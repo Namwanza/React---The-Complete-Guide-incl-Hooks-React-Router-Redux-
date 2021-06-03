@@ -1,3 +1,4 @@
+
 # React - The Complete Guide (incl Hooks, React Router, Redux)
 
 Am going to cover three main sections;
@@ -20,3 +21,4 @@ Am going to cover three main sections;
  ### Summaries & Refreshers
   - Javascript Refresher
   - ReactJS Refresher
+[next-gen-js-summary.pdf](https://github.com/Namwanza/React-The-Complete-Guide-incl-Hooks-ReactRouter-Redux/files/6591618/next-gen-js-summary.pdf)
